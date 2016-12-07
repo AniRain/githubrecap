@@ -1,0 +1,33 @@
+ h1 {
+  color: #262626;
+  font-size: 45px:
+}
+h2 {
+  color: #000000;
+  font-size: 32px;
+}
+p { 
+  color: #123123;
+  font-size: 32px;
+margin-left: 100px;
+}
+li {
+  font-size: 32px;
+  color: #123123;
+  margin-left: 100px;
+}
+.Goals {color: Black;}
+.header {
+	width: 100%;
+	height: 600px;
+background-image: url(https://static1.squarespace.com/static/557e1aa2e4b069fd29c25360/t/55d4e77fe4b0d3dfa4f25bd6/1440016259505/Snowy-owl-000069334339_Large.jpg?format=1000w
+
+);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.content {margin-left: 5%;
+margin-top: 100px;
+margin-right: 5%;
+ }
